@@ -753,6 +753,7 @@ if game.PlaceId == 2788229376 then
     game.Players.LocalPlayer.CharacterAdded:Connect(AnimationPack)
 end
 end
+
 getgenv().keytoclick = "Q"
 tool = Instance.new("Tool")
 tool.RequiresHandle = false
